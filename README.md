@@ -19,7 +19,8 @@ This is OnMovie!
 * PHP
   * APIs;
   * Server in cloud.
-  *Stripe
+  
+*Stripe
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
